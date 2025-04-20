@@ -86,3 +86,9 @@ h2 {
   margin-bottom: 12px;
 }
 
+footer {
+  background: #333232;
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
